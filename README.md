@@ -22,4 +22,4 @@ El simulador antes de iniciar se requiere agregar una muestra, un tiempo de ejec
 
 > ### USO
 > El archivo a ejecutar para comenzar el simulador se encuentra en:
-> `dist/Centrifuga.jaj`
+> `dist/Centrifuga.jar`
